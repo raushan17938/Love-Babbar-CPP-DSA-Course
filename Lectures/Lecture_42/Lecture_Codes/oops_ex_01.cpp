@@ -1,3 +1,5 @@
+https://medium.com/@xsankalp13/padding-and-greedy-alignment-d2e3a843c35 // PADDING AND GREEDY ALIGNMENT
+
 #include<iostream>
 using namespace std;
 
