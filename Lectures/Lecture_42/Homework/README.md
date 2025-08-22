@@ -1,5 +1,7 @@
 # Homework
 
+# https://medium.com/@xsankalp13/padding-and-greedy-alignment-d2e3a843c35
+
 **Q.1** Why below code printing size is equal to 12 instead of 9?
 ```cpp
 #include<iostream>
